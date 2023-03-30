@@ -1,0 +1,65 @@
+* {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: content-box;
+    position: relative;
+}
+
+.title {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.download {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+.download {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+.download:hover {
+    cursor: pointer;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+    padding: 150px auto;
+}
+
+section {
+    margin:35px 0;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+    padding: 150px auto;
+}
+
+section {
+    margin:35px 0;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+footer {
+    color: white;
+    text-align: right;
+}
